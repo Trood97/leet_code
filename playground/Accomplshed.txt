@@ -1,0 +1,12 @@
+1. Two sum, returning the index of the target
+    brute force, hashmap 2 pass, hashmap 1 pass
+    D:\leet_code_python\sections\Arrays\two_sum.py'
+
+2. Products of an integer in an array except self
+    D:\leet_code_python\sections\Arrays\product_of_array_except_self.py
+
+3. Thanos Balance
+    D:\leet_code_python\algorithms\thanos_balance.py
+
+4. Max_subarray_addition
+    sections/Arrays/max_subarray.py
